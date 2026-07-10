@@ -1,0 +1,11 @@
+langchain==0.3.27
+langchain-core==0.3.75
+langchain-community==0.3.27
+langchain-ollama==0.2.3
+langchain-huggingface
+pypdf
+sentence-transformers
+faiss-cpu
+streamlit
+edge-tts 
+pygame
